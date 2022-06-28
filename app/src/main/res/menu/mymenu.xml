@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/AddPatient" android:title="Add Patient" />
+    <item android:id="@+id/ListPatient" android:title="View All Patient" />
+    <item android:id="@+id/FileDemo" android:title="File Demo" />
+    <item android:id="@+id/Logout" android:title="Logout" />
+</menu>
